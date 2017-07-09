@@ -38,6 +38,11 @@ h1, h2, h3 {
   border: none;
 }
 
+.navbar-brand {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+}
+
 .navbar-default .navbar-brand {
   color:#800;
 }
@@ -54,7 +59,7 @@ h1, h2, h3 {
 
 // Home Page Styles
 .home-callout {
-  color:#542929;
+  color: #3974A8;
   margin-top: -20px;
   padding-top: 50px;
   padding-bottom: 100px;
